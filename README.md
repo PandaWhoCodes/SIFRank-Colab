@@ -4,7 +4,7 @@ see original paper [SIFRank: A New Baseline for Unsupervised Keyphrase Extractio
 
 # Getting Started
 
-Open in [Google Colab]()
+Open in [Google Colab](https://colab.research.google.com/github/PandaWhoCodes/SIFRank-Colab/blob/master/SIFRank.ipynb)
 - Select GPU Runtime 
 - Run All cells
 
